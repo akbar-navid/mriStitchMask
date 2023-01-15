@@ -1,0 +1,4 @@
+numpy==1.21.2
+nibabel==3.2.2
+dipy==1.5.0
+argparse==1.1
