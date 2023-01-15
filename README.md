@@ -1,7 +1,7 @@
 # MRI Image Stitch and Mask Demo
 
 ## Prerequisites
-Please install all necessary libraries by typing:
+Please install all necessary library versions by typing:
 
 ```pip install -r requirements.txt```
   
