@@ -9,11 +9,9 @@ Please install all necessary library versions by typing:
 The code runs from terminal using ```main.py```, with supporting functions automatically parsed from ```utils.py```
 
 ```
-|--<any directory>
+|--<mriStitchMask>
       |--main.py
       |--utils.py
-      |--requirements.txt
-      |--README.MD
       
 |--<dir>
       |--<input_1>.nii.gz      
